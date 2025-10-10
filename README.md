@@ -1,4 +1,4 @@
-# FULL_ADDER_SUBTRACTOR
+z# FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
@@ -21,8 +21,15 @@ Full adder is a digital circuit used to calculate the sum of three binary bits. 
 Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin 
 
 Carry = AB + ACin + BCin
+## circut diagram 
+https://github.com/rubikamanikandan17-boop/BOOLEAN_FUNCTION_MINIMIZATION/tree/main
+## output
+![WhatsApp Image 2025-10-09 at 19 01 07_55965b7a](https://github.com/user-attachments/assets/fabf9236-0d4f-4293-b1f1-9bcc8349af89)
 
 ![image](https://github.com/naavaneetha/FULL_ADDER_SUBTRACTOR/assets/154305477/0f30ba51-5ffb-4198-845f-18e054f675e7)
+# truth table
+#![WhatsApp Image 2025-10-10 at 13 04 39_994db012](https://github.com/user-attachments/assets/7a06ee5f-94e2-4616-8659-1b0c25e03193)
+ 
 
 **Figure -1 FULL ADDER**
 
@@ -35,8 +42,14 @@ A full subtractor is a combinational circuit that performs subtraction involving
 Diff = A ⊕ B ⊕ Bin 
 
 Borrow out = A'Bin + A'B + BBin
+## circut diagram 
+![WhatsApp Image 2025-10-09 at 19 01 08_bc1ffb1c](https://github.com/user-attachments/assets/858c9f5f-983f-4858-ac48-554d7c0a8268)
+
+## output
+![WhatsApp Image 2025-10-09 at 19 01 08_81efda95](https://github.com/user-attachments/assets/9b1969cd-c157-41ef-8d52-a8b8c7263b96)
 
 **Truthtable**
+![WhatsApp Image 2025-10-10 at 13 04 54_da5bdb45](https://github.com/user-attachments/assets/30d13846-30be-45c4-a141-4c8cf979a0bd)
 
 **Procedure**
 
